@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "HTML5",
+        "icon": "bx bxl-html5",
+        "color": "#E44D26",
+        "status": 1
+    },
+    {
+        "id": 2,
+        "name": "CSS3",
+        "icon": "bx bxl-css3",
+        "color": "#1572B6",
+        "status": 1
+    },
+    {
+        "id": 3,
+        "name": "SCSS",
+        "icon": "bx bxl-sass",
+        "color": "#CC6699",
+        "status": 1
+    },
+    {
+        "id": 4,
+        "name": "Tailwind CSS",
+        "icon": "bx bxl-tailwind-css",
+        "color": "#06B6D4",
+        "status": 1
+    },
+    {
+        "id": 5,
+        "name": "Bootstrap 5",
+        "icon": "bx bxl-bootstrap",
+        "color": "#7952B3",
+        "status": 1
+    },
+    {
+        "id": 6,
+        "name": "Bulma CSS",
+        "icon": "bx bxs-file-css",
+        "color": "#00D1B2",
+        "status": 0
+    },
+    {
+        "id": 7,
+        "name": "JavaScript",
+        "icon": "bx bxl-javascript",
+        "color": "#F7DF1E",
+        "status": 1
+    },
+    {
+        "id": 8,
+        "name": "TypeScript",
+        "icon": "bx bxl-typescript",
+        "color": "#3178C6",
+        "status": 1
+    },
+    {
+        "id": 9,
+        "name": "Alpine.js",
+        "icon": "bx bx-code-alt",
+        "color": "#8BC0D0",
+        "status": 1
+    },
+    {
+        "id": 10,
+        "name": "React.js",
+        "icon": "bx bxl-react",
+        "color": "#61DAFB",
+        "status": 1
+    },
+    {
+        "id": 11,
+        "name": "Next.js",
+        "icon": "bx bxs-file-js",
+        "color": "#000000",
+        "status": 1
+    },
+    {
+        "id": 12,
+        "name": "Vue.js",
+        "icon": "bx bxl-vuejs",
+        "color": "#4FC08D",
+        "status": 1
+    },
+    {
+        "id": 13,
+        "name": "PHP",
+        "icon": "bx bxl-php",
+        "color": "#777BB4",
+        "status": 1
+    },
+    {
+        "id": 14,
+        "name": "Laravel",
+        "icon": "bi bi-layers-fill",
+        "color": "#FF2D20",
+        "status": 1
+    },
+    {
+        "id": 15,
+        "name": "Node.js",
+        "icon": "bx bxl-nodejs",
+        "color": "#339933",
+        "status": 1
+    },
+    {
+        "id": 16,
+        "name": "Express.js",
+        "icon": "bi bi-server",
+        "color": "#68A063",
+        "status": 1
+    },
+    {
+        "id": 17,
+        "name": "Python",
+        "icon": "bx bxl-python",
+        "color": "#3776AB",
+        "status": 1
+    },
+    {
+        "id": 18,
+        "name": "PWA",
+        "icon": "bi bi-phone",
+        "color": "#5A0FC8",
+        "status": 0
+    },
+    {
+        "id": 19,
+        "name": "MySQL",
+        "icon": "bi bi-database",
+        "color": "#4479A1",
+        "status": 1
+    },
+    {
+        "id": 20,
+        "name": "PostgreSQL",
+        "icon": "bx bxl-postgresql",
+        "color": "#4169E1",
+        "status": 1
+    },
+    {
+        "id": 21,
+        "name": "MongoDB",
+        "icon": "bx bxl-mongodb",
+        "color": "#47A248",
+        "status": 1
+    },
+    {
+        "id": 22,
+        "name": "Redis",
+        "icon": "bi bi-database-fill-gear",
+        "color": "#DC382D",
+        "status": 1
+    },
+    {
+        "id": 23,
+        "name": "Git",
+        "icon": "bx bxl-git",
+        "color": "#F05032",
+        "status": 1
+    },
+    {
+        "id": 24,
+        "name": "Docker",
+        "icon": "bx bxl-docker",
+        "color": "#2496ED",
+        "status": 1
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "icon": "bx bx-laptop",
+    "bgClass": "bg-primary",
+    "textClass": "text-primary",
+    "title": "Web Development",
+    "description": "Building fast, dynamic, and modern websites tailored to your business needs using cutting-edge frameworks."
+  },
+  {
+    "icon": "bx bx-mobile-alt",
+    "bgClass": "bg-success",
+    "textClass": "text-success",
+    "title": "Mobile App Dev",
+    "description": "Developing cross-platform iOS and Android applications that provide seamless native user experiences."
+  },
+  {
+    "icon": "bx bx-palette",
+    "bgClass": "bg-warning",
+    "textClass": "text-warning",
+    "title": "UI/UX Design",
+    "description": "Crafting intuitive user interfaces, interactive prototypes, and engaging design systems that captivate users."
+  },
+  {
+    "icon": "bx bx-sitemap",
+    "bgClass": "bg-info",
+    "textClass": "text-info",
+    "title": "API & Microservices",
+    "description": "Designing robust RESTful and GraphQL backend APIs built for high throughput and security."
+  },
+  {
+    "icon": "bx bxs-tachometer",
+    "bgClass": "bg-danger",
+    "textClass": "text-danger",
+    "title": "SEO & Speed Tuning",
+    "description": "Optimizing core web vitals, page load speeds, and search engine visibility for higher rankings."
+  },
+  {
+    "icon": "bx bx-conversation",
+    "bgClass": "bg-dark",
+    "textClass": "text-dark",
+    "title": "Tech Consulting",
+    "description": "Strategic guidance on code architecture, cloud migration, and modernizing legacy stacks."
+  }
+]

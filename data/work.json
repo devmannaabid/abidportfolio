@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "role": "Lead Full-Stack Engineer",
+    "company": "TechCorp Solutions Inc.",
+    "period": "2021 - Present",
+    "responsibilities": [
+      "Spearheaded micro-frontend migration reducing page render delays by 40%.",
+      "Managed a team of 8 engineers building high-traffic enterprise web tools.",
+      "Integrated automated CI/CD pipelines cut deployment failure rates by 60%."
+    ],
+    "status": 1
+  },
+  {
+    "id": 2,
+    "role": "Senior Frontend Developer",
+    "company": "Creative Cloud Interactive",
+    "period": "2018 - 2021",
+    "responsibilities": [
+      "Developed responsive web applications for Fortune 500 enterprise clients.",
+      "Standardized internal design systems utilizing Bootstrap and React.",
+      "Collaborated directly with product managers to deliver features on fast sprints."
+    ],
+    "status": 1
+  },
+  {
+    "id": 3,
+    "role": "UI/UX Web Developer",
+    "company": "Nexus Web Agency",
+    "period": "2016 - 2018",
+    "responsibilities": [
+      "Created over 30 bespoke client websites using modern CSS frameworks.",
+      "Optimized web apps for maximum performance across low-end mobile devices."
+    ],
+    "status": 1
+  }
+]

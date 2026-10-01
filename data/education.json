@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "degree": "M.S. in Computer Science",
+    "institution": "Stanford University",
+    "period": "2016 - 2018",
+    "description": "Specialized in Distributed Systems and Human-Computer Interaction. Graduated with Honors.",
+    "theme": "primary",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "degree": "B.S. in Software Engineering",
+    "institution": "UC Berkeley",
+    "period": "2012 - 2016",
+    "description": "Core coursework: Algorithms, Data Structures, Web Development, Database Management.",
+    "theme": "success",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "degree": "AWS Certified Solutions Architect",
+    "institution": "Amazon Web Services",
+    "period": "Issued 2022",
+    "description": "Industry certification confirming advanced cloud system design and deployment competence.",
+    "theme": "warning",
+    "status": 1
+  }
+]
